@@ -11,13 +11,19 @@ Using AI produced similar levels of code-quality issues compared to devs without
 
 ## Development Velocity
 
-The effect of AI on short-term development is generally positive (Borg et al., He et al., Paradis et al.). 
+### Short term
 
-On the long term, Cursor offers a generous, initial speed-up that diminishes after a few months, whilst code complexity increases (He et al.). This can be *partly* explained through a self-enforcing cycle, where using Cursor introduces code quality issues (technical debt) that pushes devs to use cursor to fix them, possibly creating more code quality issues (He et al.).
+The effect of AI on short-term development velocity is generally positive (Borg et al., He et al. 2026b, Paradis et al.). 
+
+### Long term
+
+On the long term, AI coding tools may offer a generous, initial speed-up that diminishes after a few months, whilst code complexity increases (He et al. 2026b). This can be *partly* explained through a self-enforcing cycle, where AI tools introduce code quality issues (technical debt) that pushes devs to use cursor to fix them, possibly creating more code quality issues (He et al. 2026b).
+
+Development velocity is better sustained in the long-term through time, money and a clear mandate (He et al. 2026a).
 
 ## Downstream Tasks
 
-Using AI sped up initial dev velocity, but the speed up slowed down a lot when it came to releases (Demirer et al.). 
+Using AI speeds up initial dev velocity, but it's bottlenecked by downstream tasks like PR reivews (Demirer et al., He et al. 2026a).  As a result, companies can increase the numbers of devs and delegate more tasks towards automatic approval (He et al. 2026a).
 
 ## Attitudes
 

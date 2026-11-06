@@ -2,16 +2,15 @@
 
 summary: the paper tracks a b2b company with a cto that announced a 2x PR mandate with the power of ai. they ask 3 questoins:
 1. can they do it
-	1. yes they can
-		1. heavier use of AI led to more PRs
+	1. yes they can, over a long enough horizon, enough money and a clear mandate
+	2. heavier use of AI led to more PRs
 2. is ai adoption uniform
 	1. yes generally but manager adopted ai a lot more, meaning they could now ship code more readily
 3. how they dealt with additional throughput, and how it affects review and code quality
 	1. ai authored PRs become 90% of total prs
-	2. num of PRs grew 3x while devs only grew 1.5x
+	2. num of PRs grew 3x while devs only grew 1.5x, so the load on reviewers doubled
 	3. automated merge requests grew
-	4. the load on reviewers doubled
-	5. the paper did pick up a PR review bottleneck, but mentioned ai-approved prs can change this
+	4. the paper did pick up a PR review bottleneck, but mentioned ai-approved prs can change this
 
 --- 
 

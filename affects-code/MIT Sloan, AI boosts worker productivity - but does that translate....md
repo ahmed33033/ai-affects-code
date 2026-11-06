@@ -1,4 +1,4 @@
-#productivity #negative #bottle-neck
+	#productivity #negative #bottle-neck
 focuses on outcomes of using ai tools
 
 headline claim: ai coding tools much faster at coding, but productivity boosts are negligible at shipping code b/c of bottlenecks that require human input.
