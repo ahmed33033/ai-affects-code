@@ -7,7 +7,7 @@ Coding agents present a different paradigm compared to AI-assisted IDE's (Agarwa
 
 Really important because it is 3-4x the initial cost of developing the app (Modern Software Engineering).
 
-Using AI produced similar levels of code-quality issues compared to devs without AI (Borg et al.).
+Using AI produced similar levels of code-quality issues compared to devs without AI (Borg et al.). While technical debt is easier to manage with GenAI, cognitive and intent debt can be exasperated (Storey, 2026). 
 
 ## Development Velocity
 
@@ -27,6 +27,6 @@ Using AI speeds up initial dev velocity, but it's bottlenecked by downstream tas
 
 ## Attitudes
 
-People enjoy using GenAI (Butler et al.). However, using AI can introduce technical debt and help fuel a cycle of novelty, frustration and abandonment (He et al.).
+People enjoy using GenAI (Butler et al.). However, using AI can introduce technical debt and help fuel a cycle of novelty, frustration and abandonment (He et al. 2026b).
 
 The speed-up felt from using AI may exceed the actual speed-up in development speed (METR).
